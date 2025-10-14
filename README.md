@@ -6,7 +6,7 @@
 <img src="[https://visitcount.itsvg.in/api?id=dev-felpss&label=Profile%20Views&color=1&icon=7&pretty=true](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)" />
 
 
-🌱 Estudo atualmente TEI (tecnico em informatica) para um dia me tornar um desenvolvedor full stack.
+🌱 Estudo atualmente TEI (tecnico em informatica) para um profissional em infraestrutura
 
 🎓 Estudo no SENAC Tatuapé.
 
@@ -42,33 +42,32 @@
 
 🛠️ Soft Skills
 
-Como profissional de infraestrutura e suporte técnico, acredito que as habilidades interpessoais são essenciais para garantir um ambiente de TI eficiente e colaborativo. Aqui estão algumas das soft skills que aplico no meu dia a dia:
-Comunicação eficaz: Clareza ao transmitir informações técnicas a usuários e colegas, facilitando o entendimento e a resolução de problemas.
-Trabalho em equipe: Colaboração constante com técnicos, analistas e demais setores para manter os sistemas operando corretamente.
-Resolução de problemas: Capacidade de diagnosticar falhas e aplicar soluções rápidas e eficazes em hardware, software e rede.
-Adaptabilidade: Facilidade para aprender novas ferramentas e se ajustar a diferentes ambientes e demandas tecnológicas.
-Gerenciamento de tempo: Organização das tarefas de manutenção, suporte e atendimento dentro dos prazos estabelecidos.
-Pensamento analítico: Identificação de causas de incidentes técnicos e proposta de melhorias preventivas.
-Empatia: Atenção às necessidades dos usuários para oferecer suporte humanizado e eficiente.
-Autodidatismo: Busca constante por novos conhecimentos e certificações para aprimorar o desempenho profissional.
-Atenção aos detalhes: Cuidado ao executar manutenções, configurações e verificações para evitar erros e garantir qualidade no serviço.
+•	Comunicação eficaz: Capacidade de explicar procedimentos técnicos de maneira clara para facilitar o entendimento dos usuários e colegas.
+•	Trabalho em equipe: Colaboração constante com colegas e outros setores para manter sistemas e equipamentos funcionando corretamente.
+•	Resolução de problemas: Abordagem proativa e analítica para identificar e solucionar falhas em hardware, software e rede.
+•	Adaptabilidade: Flexibilidade para aprender novas tecnologias e se adaptar a diferentes ambientes e demandas.
+•	Gerenciamento de tempo: Habilidade de priorizar tarefas de manutenção, suporte e atendimento para cumprir prazos com eficiência.
+•	Pensamento crítico: Análise cuidadosa de situações técnicas para propor soluções eficazes e preventivas.
+•	Empatia: Consideração das necessidades dos usuários para oferecer suporte atencioso e eficiente.
+•	Autodidatismo: Interesse constante em aprender de forma independente para aprimorar o desempenho técnico e profissional.
+•	Atenção aos detalhes: Foco em procedimentos e verificações para garantir a qualidade e segurança dos serviços prestados.
 
 💻 Hard Skills
 
-Busco constantemente aprimorar minhas competências técnicas para oferecer suporte de qualidade e contribuir para a estabilidade e segurança da infraestrutura de TI.
-Sistemas Operacionais: Instalação, configuração e manutenção de Windows, Linux e Windows Server.
-Redes de Computadores: Montagem, configuração e monitoramento de redes LAN, WAN e Wi-Fi.
-Cabeamento estruturado: Organização, crimpagem e identificação de cabos de rede e patch panels.
-Manutenção de hardware: Diagnóstico e substituição de componentes de computadores, impressoras e periféricos.
-Suporte técnico: Atendimento a usuários, formatação de máquinas, instalação de softwares e resolução de falhas.
-Bancos de dados: Noções básicas de MySQL e SQL Server para suporte e consultas simples.
-Segurança da informação: Aplicação de boas práticas para proteger dados e prevenir acessos não autorizados.
-Ferramentas de gerenciamento e monitoramento: Experiência com Remote Desktop, AnyDesk, TeamViewer, e ferramentas de inventário de ativos.
-Versionamento e documentação: Organização de registros de chamados, manutenções e atualizações de equipamentos.
-Ambientes virtuais e nuvem: Noções de VirtualBox, VMware, e serviços em Google Cloud e Azure.
-Infraestrutura de servidores: Conhecimento em Active Directory, DNS, DHCP, e Compartilhamento de rede.
-Instalação e configuração de softwares corporativos: Pacote Microsoft Office, antivírus, e ferramentas de produtividade.
-### 📊 GitHub Stats
+•	Sistemas operacionais: Instalação, configuração e manutenção de Windows, Linux e Windows Server.
+•	Redes de computadores: Conhecimento em montagem, configuração e diagnóstico de redes LAN, WAN e Wi-Fi.
+•	Cabeamento estruturado: Experiência com crimpagem, organização e identificação de cabos de rede e patch panels.
+•	Manutenção de hardware: Diagnóstico, substituição e montagem de componentes de computadores e periféricos.
+•	Suporte técnico: Atendimento a usuários, formatação de máquinas, instalação de softwares e resolução de falhas.
+•	Bancos de dados: Noções básicas de MySQL e SQL Server para consultas e suporte técnico.
+•	Segurança da informação: Aplicação de boas práticas para proteger dados e prevenir acessos não autorizados.
+•	Ferramentas de acesso remoto: Utilização de AnyDesk, TeamViewer e Remote Desktop para suporte à distância.
+•	Versionamento e documentação: Organização e registro de chamados, manutenções e atualizações de equipamentos.
+•	Ambientes virtuais e nuvem: Noções em VirtualBox, VMware, Google Cloud e Microsoft Azure.
+•	Serviços de rede: Conhecimento em Active Directory, DNS, DHCP e compartilhamento de arquivos.
+•	Softwares corporativos: Instalação e configuração de Microsoft Office, antivírus e ferramentas empresariais.
+•	Monitoramento e manutenção preventiva: Acompanhamento do desempenho de máquinas e redes para evitar falhas e otimizar recursos.
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-felpss&show_icons=true&theme=radical)
 
