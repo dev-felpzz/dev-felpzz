@@ -3,7 +3,7 @@
 
 [![MasterHead](https://i.pinimg.com/originals/9f/b0/e9/9fb0e9a48e6b312f4725d9497d31c46a.gif)]()
 
-<img src="https://visitcount.itsvg.in/api?id=dev-felpss&label=Profile%20Views&color=1&icon=7&pretty=true" />
+<img src="[https://visitcount.itsvg.in/api?id=dev-felpss&label=Profile%20Views&color=1&icon=7&pretty=true](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)" />
 
 
 🌱 Estudo atualmente TEI (tecnico em informatica) para um dia me tornar um desenvolvedor full stack.
