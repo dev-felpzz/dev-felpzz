@@ -40,52 +40,34 @@
 
 
 
-## 🛠️ Soft Skills
+🛠️ Soft Skills
 
-Como desenvolvedor, acredito que as habilidades interpessoais são tão importantes quanto o conhecimento técnico. Aqui estão algumas das soft skills que cultivo para me destacar e contribuir de forma eficaz em projetos:
+Como profissional de infraestrutura e suporte técnico, acredito que as habilidades interpessoais são essenciais para garantir um ambiente de TI eficiente e colaborativo. Aqui estão algumas das soft skills que aplico no meu dia a dia:
+Comunicação eficaz: Clareza ao transmitir informações técnicas a usuários e colegas, facilitando o entendimento e a resolução de problemas.
+Trabalho em equipe: Colaboração constante com técnicos, analistas e demais setores para manter os sistemas operando corretamente.
+Resolução de problemas: Capacidade de diagnosticar falhas e aplicar soluções rápidas e eficazes em hardware, software e rede.
+Adaptabilidade: Facilidade para aprender novas ferramentas e se ajustar a diferentes ambientes e demandas tecnológicas.
+Gerenciamento de tempo: Organização das tarefas de manutenção, suporte e atendimento dentro dos prazos estabelecidos.
+Pensamento analítico: Identificação de causas de incidentes técnicos e proposta de melhorias preventivas.
+Empatia: Atenção às necessidades dos usuários para oferecer suporte humanizado e eficiente.
+Autodidatismo: Busca constante por novos conhecimentos e certificações para aprimorar o desempenho profissional.
+Atenção aos detalhes: Cuidado ao executar manutenções, configurações e verificações para evitar erros e garantir qualidade no serviço.
 
-- **Comunicação eficaz**: Capacidade de explicar conceitos complexos de maneira clara para facilitar o entendimento da equipe e documentação do código.
-- **Trabalho em equipe**: Colaboração constante com colegas para alcançar os objetivos do projeto de forma eficiente e harmoniosa.
-- **Resolução de problemas**: Abordagem proativa e criativa para identificar e resolver problemas rapidamente.
-- **Adaptabilidade**: Flexibilidade para aprender novas tecnologias e se adaptar a mudanças no desenvolvimento de software.
-- **Gerenciamento de tempo**: Habilidade de priorizar tarefas para manter os projetos no prazo e com qualidade.
-- **Pensamento crítico**: Análise cuidadosa de desafios para encontrar soluções eficazes e inovadoras.
-- **Empatia**: Consideração das necessidades de usuários e colegas para desenvolver soluções que agreguem valor.
-- **Autodidatismo**: Paixão por aprender de forma independente e contínua para melhorar habilidades técnicas e pessoais.
-- **Atenção aos detalhes**: Foco em detalhes para minimizar erros e garantir a precisão do código.
+💻 Hard Skills
 
-
-
-## 💻 Hard Skills
-
-Como desenvolvedor, sempre busco aprimorar e expandir minhas habilidades técnicas para enfrentar os desafios do desenvolvimento de software. Aqui estão algumas das hard skills que possuo:
-
-- **Linguagens de programação**: Experiência com **JavaScript**, **Python**, **Java**, **C#**, **C++**.
-- **Desenvolvimento Web**:
-  - **HTML/CSS**: Conhecimento sólido em HTML5 e CSS3.
-  - **Frameworks e bibliotecas**: Experiência com **React**, **Angular**, **Vue.js** (frontend) e **Node.js**, **Django**, **Spring Boot** (backend).
-- **Versionamento de código**:
-  - Familiaridade com **Git** e plataformas como **GitHub** e **GitLab**.
-- **Bancos de dados**:
-  - **SQL**: Experiência com **MySQL**, **PostgreSQL**.
-  - **NoSQL**: Conhecimento em **MongoDB**, **Firebase**.
-- **Desenvolvimento de APIs**:
-  - Criação e consumo de **APIs RESTful** e **GraphQL**.
-- **Estruturas de dados e algoritmos**:
-  - Compreensão de listas, árvores, grafos, e algoritmos para desenvolver código eficiente.
-- **Segurança da aplicação**:
-  - Práticas para proteger aplicações contra vulnerabilidades (injeção de SQL, XSS, CSRF).
-- **Desenvolvimento ágil**:
-  - Experiência com metodologias como **Scrum** e **Kanban**.
-- **DevOps e CI/CD**:
-  - Implementação de pipelines de integração e entrega contínuas com **Jenkins**, **GitHub Actions**, **Travis CI**.
-- **Ferramentas de desenvolvimento**:
-  - Proficiência em **Visual Studio Code**, **IntelliJ IDEA**, **Eclipse**.
-- **Testes e qualidade de código**:
-- 
-
-
-
+Busco constantemente aprimorar minhas competências técnicas para oferecer suporte de qualidade e contribuir para a estabilidade e segurança da infraestrutura de TI.
+Sistemas Operacionais: Instalação, configuração e manutenção de Windows, Linux e Windows Server.
+Redes de Computadores: Montagem, configuração e monitoramento de redes LAN, WAN e Wi-Fi.
+Cabeamento estruturado: Organização, crimpagem e identificação de cabos de rede e patch panels.
+Manutenção de hardware: Diagnóstico e substituição de componentes de computadores, impressoras e periféricos.
+Suporte técnico: Atendimento a usuários, formatação de máquinas, instalação de softwares e resolução de falhas.
+Bancos de dados: Noções básicas de MySQL e SQL Server para suporte e consultas simples.
+Segurança da informação: Aplicação de boas práticas para proteger dados e prevenir acessos não autorizados.
+Ferramentas de gerenciamento e monitoramento: Experiência com Remote Desktop, AnyDesk, TeamViewer, e ferramentas de inventário de ativos.
+Versionamento e documentação: Organização de registros de chamados, manutenções e atualizações de equipamentos.
+Ambientes virtuais e nuvem: Noções de VirtualBox, VMware, e serviços em Google Cloud e Azure.
+Infraestrutura de servidores: Conhecimento em Active Directory, DNS, DHCP, e Compartilhamento de rede.
+Instalação e configuração de softwares corporativos: Pacote Microsoft Office, antivírus, e ferramentas de produtividade.
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-felpss&show_icons=true&theme=radical)
