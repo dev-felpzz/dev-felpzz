@@ -1,12 +1,11 @@
-
 ## Hello World! bem vindo ao meu espaço, me chamo Felipe, e esse é um pouco sobre mim
 
 [![MasterHead](https://i.pinimg.com/originals/9f/b0/e9/9fb0e9a48e6b312f4725d9497d31c46a.gif)]()
 
-<img src="[https://visitcount.itsvg.in/api?id=dev-felpss&label=Profile%20Views&color=1&icon=7&pretty=true](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)" />
+<img src="https://visitcount.itsvg.in/api?id=dev-felpss&label=Profile%20Views&color=1&icon=7&pretty=true" />
 
 
-🌱 Estudo atualmente TEI (tecnico em informatica) para me tornar um full-stack
+🌱 Estudo atualmente TEI (tecnico em informatica) para um dia me tornar um desenvolvedor full stack.
 
 🎓 Estudo no SENAC Tatuapé.
 
@@ -19,13 +18,20 @@
 
 ### 📚 Apredendo:
 
-[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A7D?style=for-the-badge&logo=oracle&logoColor=white)]
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]
-[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3D?style=for-the-badge&logo=linux-mint&logoColor=white)]
-[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]
-[![HTML](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
-[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]
+[![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)]
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
+
+[![Responsive](https://img.shields.io/badge/Responsive_Design-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)]
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
+
 
 
 
@@ -40,34 +46,53 @@
 
 
 
-🛠️ Soft Skills
+## 🛠️ Soft Skills
 
-•	Comunicação eficaz: Capacidade de explicar procedimentos técnicos de maneira clara para facilitar o entendimento dos usuários e colegas.
-•	Trabalho em equipe: Colaboração constante com colegas e outros setores para manter sistemas e equipamentos funcionando corretamente.
-•	Resolução de problemas: Abordagem proativa e analítica para identificar e solucionar falhas em hardware, software e rede.
-•	Adaptabilidade: Flexibilidade para aprender novas tecnologias e se adaptar a diferentes ambientes e demandas.
-•	Gerenciamento de tempo: Habilidade de priorizar tarefas de manutenção, suporte e atendimento para cumprir prazos com eficiência.
-•	Pensamento crítico: Análise cuidadosa de situações técnicas para propor soluções eficazes e preventivas.
-•	Empatia: Consideração das necessidades dos usuários para oferecer suporte atencioso e eficiente.
-•	Autodidatismo: Interesse constante em aprender de forma independente para aprimorar o desempenho técnico e profissional.
-•	Atenção aos detalhes: Foco em procedimentos e verificações para garantir a qualidade e segurança dos serviços prestados.
+Como desenvolvedor, acredito que as habilidades interpessoais são tão importantes quanto o conhecimento técnico. Aqui estão algumas das soft skills que cultivo para me destacar e contribuir de forma eficaz em projetos:
 
-💻 Hard Skills
+- **Comunicação eficaz**: Capacidade de explicar conceitos complexos de maneira clara para facilitar o entendimento da equipe e documentação do código.
+- **Trabalho em equipe**: Colaboração constante com colegas para alcançar os objetivos do projeto de forma eficiente e harmoniosa.
+- **Resolução de problemas**: Abordagem proativa e criativa para identificar e resolver problemas rapidamente.
+- **Adaptabilidade**: Flexibilidade para aprender novas tecnologias e se adaptar a mudanças no desenvolvimento de software.
+- **Gerenciamento de tempo**: Habilidade de priorizar tarefas para manter os projetos no prazo e com qualidade.
+- **Pensamento crítico**: Análise cuidadosa de desafios para encontrar soluções eficazes e inovadoras.
+- **Empatia**: Consideração das necessidades de usuários e colegas para desenvolver soluções que agreguem valor.
+- **Autodidatismo**: Paixão por aprender de forma independente e contínua para melhorar habilidades técnicas e pessoais.
+- **Atenção aos detalhes**: Foco em detalhes para minimizar erros e garantir a precisão do código.
 
-•	Sistemas operacionais: Instalação, configuração e manutenção de Windows, Linux e Windows Server.
-•	Redes de computadores: Conhecimento em montagem, configuração e diagnóstico de redes LAN, WAN e Wi-Fi.
-•	Cabeamento estruturado: Experiência com crimpagem, organização e identificação de cabos de rede e patch panels.
-•	Manutenção de hardware: Diagnóstico, substituição e montagem de componentes de computadores e periféricos.
-•	Suporte técnico: Atendimento a usuários, formatação de máquinas, instalação de softwares e resolução de falhas.
-•	Bancos de dados: Noções básicas de MySQL e SQL Server para consultas e suporte técnico.
-•	Segurança da informação: Aplicação de boas práticas para proteger dados e prevenir acessos não autorizados.
-•	Ferramentas de acesso remoto: Utilização de AnyDesk, TeamViewer e Remote Desktop para suporte à distância.
-•	Versionamento e documentação: Organização e registro de chamados, manutenções e atualizações de equipamentos.
-•	Ambientes virtuais e nuvem: Noções em VirtualBox, VMware, Google Cloud e Microsoft Azure.
-•	Serviços de rede: Conhecimento em Active Directory, DNS, DHCP e compartilhamento de arquivos.
-•	Softwares corporativos: Instalação e configuração de Microsoft Office, antivírus e ferramentas empresariais.
-•	Monitoramento e manutenção preventiva: Acompanhamento do desempenho de máquinas e redes para evitar falhas e otimizar recursos.
 
+
+## 💻 Hard Skills
+
+Como desenvolvedor, sempre busco aprimorar e expandir minhas habilidades técnicas para enfrentar os desafios do desenvolvimento de software. Aqui estão algumas das hard skills que possuo:
+
+- **Linguagens de programação**: Experiência com **JavaScript**, **Python**, **Java**, **C#**, **C++**.
+- **Desenvolvimento Web**:
+  - **HTML/CSS**: Conhecimento sólido em HTML5 e CSS3.
+  - **Frameworks e bibliotecas**: Experiência com **React**, **Angular**, **Vue.js** (frontend) e **Node.js**, **Django**, **Spring Boot** (backend).
+- **Versionamento de código**:
+  - Familiaridade com **Git** e plataformas como **GitHub** e **GitLab**.
+- **Bancos de dados**:
+  - **SQL**: Experiência com **MySQL**, **PostgreSQL**.
+  - **NoSQL**: Conhecimento em **MongoDB**, **Firebase**.
+- **Desenvolvimento de APIs**:
+  - Criação e consumo de **APIs RESTful** e **GraphQL**.
+- **Estruturas de dados e algoritmos**:
+  - Compreensão de listas, árvores, grafos, e algoritmos para desenvolver código eficiente.
+- **Segurança da aplicação**:
+  - Práticas para proteger aplicações contra vulnerabilidades (injeção de SQL, XSS, CSRF).
+- **Desenvolvimento ágil**:
+  - Experiência com metodologias como **Scrum** e **Kanban**.
+- **DevOps e CI/CD**:
+  - Implementação de pipelines de integração e entrega contínuas com **Jenkins**, **GitHub Actions**, **Travis CI**.
+- **Ferramentas de desenvolvimento**:
+  - Proficiência em **Visual Studio Code**, **IntelliJ IDEA**, **Eclipse**.
+- **Testes e qualidade de código**:
+- 
+
+
+
+### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-felpss&show_icons=true&theme=radical)
 
