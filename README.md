@@ -1,111 +1,108 @@
-## 👋 Fala aí! Eu sou o Felipe Pereira
+<h1 align="center">
+  👋 Olá, eu sou o Felipe Pereira
+</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9f/b0/e9/9fb0e9a48e6b312f4725d9497d31c46a.gif" width="800">
+  🚀 Desenvolvedor em formação | Front-End & Back-End
 </p>
 
+---
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=dev-felpss&label=Visualizações&color=1&icon=5&pretty=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+evolução...;Focado+em+Front-End+e+Python;Construindo+projetos+reais🚀">
+</p>
+
+---
+
+## 🎬 Demonstração do meu projeto
+
+<p align="center">
+  <img src="./static/img/demo.gif" width="800" alt="Demonstração do sistema">
 </p>
 
 ---
 
 ## 💻 Sobre mim
 
-🎓 Estudante de **Técnico em Informática (SENAC Tatuapé)**  
+🎓 Técnico em Informática (SENAC Tatuapé)  
 📍 São Paulo - SP  
-🚀 Focado em me tornar **Desenvolvedor Front-End / Full Stack**  
+💡 Focado em desenvolvimento **Front-End e Full Stack**  
 
-Atualmente estou evoluindo minhas habilidades construindo projetos reais com **HTML, CSS, JavaScript e Python (Flask)**, buscando sempre melhorar minha lógica, organização de código e experiência do usuário.
+Estou construindo projetos reais utilizando **HTML, CSS, JavaScript e Python (Flask)**, sempre buscando evoluir minha lógica e criar experiências funcionais e bem estruturadas.
 
 ---
 
-## 📫 Contato
+## 🧠 Tecnologias
 
-<p>
-  <a href="https://www.linkedin.com/in/felipe-dos-santos-aguiar-pereira12/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,flask,mysql,git,github" />
+
 </p>
 
 ---
 
-## 🧠 Tecnologias que utilizo
+## 📚 Atualmente evoluindo
 
-### 🔹 Front-End
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🔹 Back-End
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🔹 Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔹 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📚 Atualmente aprendendo
-
-- JavaScript avançado (DOM, eventos, lógica)
-- Integração Front-End ↔ Back-End
-- Boas práticas de UI/UX
-- Estruturação de projetos reais
+- JavaScript avançado  
+- Integração Front ↔ Back  
+- UI/UX  
+- Projetos completos  
 
 ---
 
 ## 🚀 Projetos em destaque
 
-🔹 Sistema de Cadastro com Impressão Térmica  
-- Flask + MySQL + Impressora ESC/POS  
-- Cadastro + sorteio + automação de impressão  
+### 🔹 Sistema de Cadastro com Impressão Térmica
+- Flask + MySQL  
+- Impressão automática (ESC/POS)  
+- Sistema de sorteio integrado  
 
-🔹 Sistema de Agendamento  
+### 🔹 Sistema de Agendamento
 - Interface moderna  
-- Armazenamento local  
 - Experiência focada no usuário  
 
 ---
 
-## 🧩 Soft Skills
-
-- Comunicação clara  
-- Trabalho em equipe  
-- Resolução de problemas  
-- Organização  
-- Aprendizado contínuo  
-
----
-
-## 📊 GitHub Stats
+## 📫 Contato
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-felpss&show_icons=true&theme=radical">
+  <a href="https://dev-felpzz.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐 Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/felipe-dos-santos-aguiar-pereira12/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
 
-## ⚡ Curiosidades
+## 📊 Estatísticas
 
-🎮 Curto jogar (Valorant, Rocket League)  
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dev-felpss&show_icons=true&theme=radical"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-felpss&theme=radical"/>
+</p>
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## ⚡ Um pouco mais sobre mim
+
+🎮 Gosto de jogos (Valorant, Rocket League)  
 🎧 Música faz parte do meu dia a dia  
-📈 Sempre buscando evoluir 1% todos os dias  
+📈 Sempre evoluindo 1% todos os dias  
 
 ---
 
 <p align="center">
   <img src="https://media.giphy.com/media/j5oP7zSilio3SewxAA/giphy.gif" width="400"/>
 </p>
-
----
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
