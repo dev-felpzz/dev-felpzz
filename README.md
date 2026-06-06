@@ -14,14 +14,6 @@
 
 ---
 
-## 🎬 Demonstração do meu projeto
-
-<p align="center">
-  <img src="./static/img/demo.gif" width="800" alt="Demonstração do sistema">
-</p>
-
----
-
 ## 💻 Sobre mim
 
 🎓 Técnico em Informática (SENAC Tatuapé)  
