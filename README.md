@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🚀 Desenvolvedor em formação | Front-End & Back-End
+  🚀 Desenvolvedor fullStack em formação
 </p>
 
 ---
@@ -18,9 +18,9 @@
 
 🎓 Técnico em Informática (SENAC Tatuapé)  
 📍 São Paulo - SP  
-💡 Focado em desenvolvimento **Front-End e Full Stack**  
+💡 Focado em desenvolvimento **Full Stack**  
 
-Estou construindo projetos reais utilizando **HTML, CSS, JavaScript e Python (Flask)**, sempre buscando evoluir minha lógica e criar experiências funcionais e bem estruturadas.
+Estou construindo projetos reais utilizando **HTML, CSS, JavaScript e Python**, sempre buscando evoluir minha lógica e criar experiências funcionais e bem estruturadas.
 
 ---
 
@@ -28,7 +28,7 @@ Estou construindo projetos reais utilizando **HTML, CSS, JavaScript e Python (Fl
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,flask,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,mysql,git,github" />
 
 </p>
 
